@@ -21,7 +21,7 @@ body{
     font-size: 24px;
     color: #F9FAF8;
 }
-ul{
+ul .header-links{
     display: flex;
     flex-direction: row;
     margin: 0;
