@@ -119,10 +119,35 @@ button.sign-up-1{
     color: #1F2937;
     max-width:200px;
 }
-
 .images img{
     width: 180px;
     height: 180px;
     border-radius: 8px;
     border: 3px solid #3882F6;
+}
+
+.quote-section{
+    display:flex;
+    flex:1;
+    color:#1F2937;
+    background-color: #E5E7EB;
+    flex-direction: column;
+    justify-content: center;
+    padding-top:72px;
+    padding-bottom: 108px;    
+}
+
+.quote{
+    margin-left: 400px;
+    margin-right: 400px;
+    font-weight: 200;
+    font-style: italic;
+    font-size: 36px;
+}
+.author{
+    margin-left: 400px;
+    margin-right: 400px;
+    font-weight: 900;
+    font-size: 18px;
+    align-self: flex-end;
 }
