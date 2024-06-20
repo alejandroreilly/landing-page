@@ -5,11 +5,11 @@ A model website landing page that acts as a template and can be built upon in th
 **Arctic Fox:** Photo by Tom Walker on Getty Images
 https://kids.nationalgeographic.com/animals/mammals/facts/arctic-fox
 
-**Fennec Fox** Photo by Tzooka, Dreamstime on Getty Images
+**Fennec Fox:** Photo by Tzooka, Dreamstime on Getty Images
 https://kids.nationalgeographic.com/animals/mammals/facts/fennec-fox
 
-**Red Fox** Photo by MLorenzoPhotography on Getty Images
+**Red Fox:** Photo by MLorenzoPhotography on Getty Images
 https://kids.nationalgeographic.com/animals/mammals/facts/red-fox
 
-**Silver Fox** Photo by Renae on Pinterest
+**Silver Fox:** Photo by Renae on Pinterest
 https://www.pinterest.com/pin/556053885216057348/
