@@ -138,8 +138,8 @@ button.sign-up-1{
 }
 
 .quote{
-    margin-left: 400px;
-    margin-right: 400px;
+    margin-left: 450px;
+    margin-right: 450px;
     font-weight: 200;
     font-style: italic;
     font-size: 36px;
@@ -150,4 +150,48 @@ button.sign-up-1{
     font-weight: 900;
     font-size: 18px;
     align-self: flex-end;
+}
+
+.call-to-action{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    padding: 108px 400px 108px;
+}
+
+.blue-middle{
+    display:flex;
+    background-color: #3882F6;
+    border-radius: 8px;
+    justify-content: space-between;
+    align-items: center;
+    padding: 32px;
+    flex: 1;
+}
+
+
+.call-head{
+    color: #F9FAF8;
+    font-size: 24px;
+    font-weight: 900;
+    margin:0;
+}
+
+.call-sub{
+    font-weight: 200;
+    font-size: 18px;
+    color: #E5E7EB;
+    margin:0;
+    padding-top: 8px;
+}
+
+button.sign-up-2{
+    background-color: #3882F6;
+    color: white;
+    padding: 8px;
+    border-radius: 8px;
+    border: 3px solid white;
+    min-width: 125px;
+    font-weight: bold;
 }
