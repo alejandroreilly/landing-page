@@ -13,3 +13,6 @@ https://kids.nationalgeographic.com/animals/mammals/facts/red-fox
 
 **Silver Fox:** Photo by Renae on Pinterest
 https://www.pinterest.com/pin/556053885216057348/
+
+# Template Credits
+ Credits for the inspiration of the webpage template and layout goes to The Odin Project's development team. Copyright can be found in the footer.
