@@ -1,5 +1,5 @@
 # Landing Page
-A model website landing page that acts as a template and can be built upon in the future. This is my first large project using my CSS and HTML knowledge, and I am looking to apply my learning to real world websites. This is a great starting point, using many ideas and structures from flexbox. 
+A model website landing page that acts as a template and can be built upon in the future. It is a template based off of developer's ideas in The Odin Project, and uses a few external images that are cited below. One can easily use this template in the future for a website of their own design.
 
 # Image Credits
 **Arctic Fox:** Photo by Tom Walker on Getty Images
