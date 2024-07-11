@@ -11,7 +11,7 @@ https://kids.nationalgeographic.com/animals/mammals/facts/fennec-fox
 **Red Fox:** Photo by MLorenzoPhotography on Getty Images
 https://kids.nationalgeographic.com/animals/mammals/facts/red-fox
 
-**Silver Fox:** Photo by Renae on Pinterest
+**Silver Fox:** Photo by Renae on Pinterest<br \>
 https://www.pinterest.com/pin/556053885216057348/
 
 # Template Credits
