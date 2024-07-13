@@ -1,6 +1,8 @@
 # Landing Page
 A model website landing page that acts as a template and can be built upon in the future. It is a template based off of developer's ideas in The Odin Project, and uses a few external images that are cited below. One can easily use this template in the future for a website of their own design. Designed for use on a computer, not a mobile device.
 
+See it [here](https://alejandroreilly.github.io/landing-page/)
+
 # Image Credits
 **Arctic Fox:** Photo by Tom Walker on Getty Images<br />
 https://kids.nationalgeographic.com/animals/mammals/facts/arctic-fox
